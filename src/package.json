@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "com.unity.modules.uielements": "1.0.0",
-        "com.kyrylokuzyk.primetween": "1.3.8"
+        "com.kyrylokuzyk.primetween": "1.4.11"
     },
     "author": {
         "name": "lsd7nk",
