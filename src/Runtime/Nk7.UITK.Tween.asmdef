@@ -1,0 +1,16 @@
+{
+    "name": "Nk7.UITK.Tween",
+    "rootNamespace": "Nk7.UITK.Extensions",
+    "references": [
+        "PrimeTween.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
